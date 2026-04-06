@@ -5,7 +5,7 @@
 
 ---
 
-## 🇺🇸 About Me (English)
+## About Me (English)
 I am a Systems Engineer and Lead Developer at **DSJ Soft**, specializing in the design, development, and maintenance of commercial software products. My expertise lies in creating robust architectures that bridge the gap between complex business needs and high-efficiency technology.
 
 - 🚀 **Core Focus:** SaaS Architecture, Mobile Sales Force Automation (SFA), and Multi-platform systems.
@@ -14,7 +14,7 @@ I am a Systems Engineer and Lead Developer at **DSJ Soft**, specializing in the 
 
 ---
 
-## 🇪🇸 Sobre Mí (Español)
+## Sobre Mí (Español)
 Ingeniero de Sistemas y Lead Developer en **DSJ Soft**, con más de 15 años de trayectoria en la creación de productos de software comercial. Me especializo en diseñar arquitecturas que garantizan escalabilidad y eficiencia operativa.
 
 - 🚀 **Enfoque Principal:** Arquitectura SaaS, automatización de fuerza de ventas móvil (SFA) y sistemas multiplataforma.
