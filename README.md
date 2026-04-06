@@ -51,11 +51,6 @@ Ingeniero de Sistemas y Lead Developer en **DSJ Soft**, con más de 15 años de 
 | **Databases** | PostgreSQL, MySQL/MariaDB (Indexing & Partitioning Expert), MongoDB |
 | **Infrastructure** | Linux (Ubuntu/Debian), Shell Scripting, Telegram API |
 
----
-
-## 📈 Stats / Estadísticas
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=tokyonight)
 
 ---
 
